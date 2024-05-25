@@ -138,51 +138,8 @@
     },
     {
       "soru": "sağlıklı yaşam önerileri",
-      "cevap": "Sağlıklı bir yaşam için düzenli egzersiz yapmak, dengeli beslenmek, yeterli uyumak ve stresten uzak durmak önemlidir. Ayrıca su tüketimini artırmak ve düzenli sağlık kontrolleri yaptırmak da faydalıdır."
-    },
-    {
-      "soru": "tatil önerileri",
-      "cevap": "Tatiller için öneriler arasında plaj tatilleri, doğa yürüyüşleri, kültürel şehir turları ve gastronomi turizmi yer alabilir. Belirli bir bölge veya ülke hakkında öneri mi istersiniz?"
-    },
-    {
-      "soru": "spor yapmanın faydaları",
-      "cevap": "Spor yapmak, fiziksel sağlığı geliştirir, kasları güçlendirir, kardiyovasküler sağlığı destekler ve kilo kontrolünü sağlar. Aynı zamanda ruh sağlığını iyileştirir, stresi azaltır ve genel olarak daha iyi bir ruh hali sağlar."
-    },
-    {
-      "soru": "uykusuzluk nedenleri",
-      "cevap": "Uykusuzluğun birçok nedeni olabilir: stres, kaygı, düzensiz uyku alışkanlıkları, kafein veya alkol tüketimi, tıbbi koşullar gibi. Uykusuzluk sorunları yaşıyorsanız, bir sağlık uzmanına danışmanız faydalı olabilir."
-    },
-    {
-      "soru": "diyet nasıl yapılır",
-      "cevap": "Diyet yaparken dengeli ve çeşitli beslenmek önemlidir. Sebze, meyve, tam tahıllar, protein kaynakları ve sağlıklı yağlardan oluşan bir diyet tercih edilmelidir. Ayrıca porsiyon kontrolü ve düzenli yemek alışkanlıkları da önemlidir."
-    },
-    {
-      "soru": "çocuklar için kitap önerileri",
-      "cevap": "Çocuklar için yaş grubuna göre farklı kitap önerileri yapılabilir. Küçük çocuklar için resimli kitaplar, okul çağındaki çocuklar için macera ve fantastik hikayeler, gençler için ise daha kompleks romanlar ve seriler önerilebilir."
-    },
-    {
-      "soru": "yoga nedir",
-      "cevap": "Yoga, beden ve zihni birleştiren bir egzersiz ve meditasyon pratiğidir. Esneklik, güç ve dengeyi geliştirmeye yardımcı olurken, zihinsel rahatlama ve stres azaltma sağlar."
-    },
-    {
-      "soru": "meditasyon nasıl yapılır",
-      "cevap": "Meditasyon yapmak için sessiz bir ortam bulun, rahat bir pozisyonda oturun veya uzanın, gözlerinizi kapatın ve derin nefes alın. Dikkatinizi nefesinize odaklayın ve zihninizi sakinleştirmeye çalışın. Düzenli olarak yapmak faydalıdır."
-    },
-    {
-      "soru": "evde spor nasıl yapılır",
-      "cevap": "Evde spor yapmak için basit ekipmanlar (dambıl, yoga matı, direnç bantları) kullanabilirsiniz. Kardiyo, kuvvet antrenmanları, esneme ve yoga gibi farklı egzersiz türlerini deneyebilirsiniz. Online video dersleri de yardımcı olabilir."
-    },
-    {
-      "soru": "mental sağlık nasıl korunur",
-      "cevap": "Mental sağlığı korumak için düzenli egzersiz yapmak, sağlıklı beslenmek, yeterli uyumak, stresten uzak durmak, sosyal ilişkileri sürdürmek ve gerektiğinde profesyonel destek almak önemlidir. Ayrıca hobilerle ilgilenmek ve zaman yönetimi de faydalıdır."
+      "cevap": "Sağlıklı bir yaşam için düzenli egzersiz yapmak, dengeli beslenmek, yeterli uyumak ve stresten uzak durmak önemlidir. Ayrıca su tüketimini artırmak ve düzenli sağlık kontrolleri yapmak da sağlığınızı korumaya yardımcı olabilir."
     }
   ],
-  "ahmet": "ahmet123",
-  "ahmeterdempamuk": "ahmet",
-  "Özgür Pamuk": "özgür",
-  "yok": "yok",
-  "Ahmet Erdem": "ahmetadmin",
-  "Ahmet": "AhmetAdmin",
-  "muhsin": "muhsin",
-  "null": null
+  "Admin":"ADMIN"
 }

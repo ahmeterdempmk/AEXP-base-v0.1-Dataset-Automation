@@ -3,23 +3,21 @@ from difflib import get_close_matches as yakinsonuc
 from datetime import datetime
 import os
 
-def kullaniciVtYukle(kullanici):
-    dosyayolu = f'{kullanici}_veritabani.json'
+def veritabaniYukle(dosyayolu):
     if os.path.exists(dosyayolu):
-        with open(dosyayolu, 'r') as dosya:
+        with open(dosyayolu, 'r', encoding='utf-8') as dosya:
             return json.load(dosya)
     else:
-        print("Kullanıcı veritabanı bulunamadı. Yeni bir veritabanı oluşturulacak.")
+        print(f"{dosyayolu} bulunamadı. Yeni bir veritabanı oluşturulacak.")
         return {"sorular": []}
 
-def kullaniciVtKaydet(kullanici, veritabani):
-    dosyayolu = f'{kullanici}_veritabani.json'
-    with open(dosyayolu, 'w') as dosya:
+def veritabaniKaydet(dosyayolu, veritabani):
+    with open(dosyayolu, 'w', encoding='utf-8') as dosya:
         json.dump(veritabani, dosya, indent=2)
 
 def kullaniciVtSifirla(kullanici):
     dosyayolu = f'{kullanici}_veritabani.json'
-    with open(dosyayolu, 'w') as dosya:
+    with open(dosyayolu, 'w', encoding='utf-8') as dosya:
         json.dump({"sorular": []}, dosya, indent=2)
 
 def yakinCevap(soru, sorular):
@@ -32,10 +30,10 @@ def kullaniciCevapBul(soru, veritabani):
             return cevaplar["cevap"], cevaplar.get("eklenmetarihi", "Bilinmiyor")
     return None, None
 
-def yeniSoruEkle(kullanici, soru, cevap, veritabani):
+def yeniSoruEkle(dosyayolu, soru, cevap, veritabani):
     tarih = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
     veritabani["sorular"].append({"soru": soru, "cevap": cevap, "eklenmetarihi": tarih})
-    kullaniciVtKaydet(kullanici, veritabani)
+    veritabaniKaydet(dosyayolu, veritabani)
 
 def vtleriListele():
     print("Şuana kadar oluşturulan kullanıcı veritabanı adları:")
@@ -77,25 +75,29 @@ vtleriListele()
 
 if __name__ == '__main__':
     print("Giriş yapmak için:")
-    print("1-Yeni Kullanıcı Kaydı Oluştur")
-    print("2-Giriş Yap")
+    print("1- Yeni Kullanıcı Kaydı Oluştur")
+    print("2- Giriş Yap")
+    print("3- Giriş yapmadan botun orjinal halini kullan")
     secim = input("Seçiminiz: ")
 
     if secim == '1':
         kullanici = kullaniciKaydi()
+        kullanici_veritabani = veritabaniYukle(f'{kullanici}_veritabani.json')
     elif secim == '2':
         kullanici = kullaniciGirisi()
+        kullanici_veritabani = veritabaniYukle(f'{kullanici}_veritabani.json')
+    elif secim == '3':
+        kullanici = None
+        kullanici_veritabani = veritabaniYukle('veritabani.json')
     else:
         print("Geçersiz seçim. Program sonlandırılıyor.")
         exit()
-
-    kullanici_veritabani = kullaniciVtYukle(kullanici)
 
     while True:
         soru = input("Siz: ")
         if soru == 'çık':
             break
-        elif soru.startswith('VT sıfırla:'):
+        elif soru.startswith('VT sıfırla:') and kullanici:
             sorusil = soru.replace('VT sıfırla:', '').strip()
             kullaniciVtSifirla(kullanici)
             print(f"AEXP AI: '{sorusil}' sorusu ve cevabı veritabanından silindi.")
@@ -116,5 +118,8 @@ if __name__ == '__main__':
                 yenicevap = input("Öğretmek için yazabilir veya 'geç' diyebilirsiniz:  ")
 
                 if yenicevap != 'geç':
-                    yeniSoruEkle(kullanici, soru, yenicevap, kullanici_veritabani)
+                    if kullanici:
+                        yeniSoruEkle(f'{kullanici}_veritabani.json', soru, yenicevap, kullanici_veritabani)
+                    else:
+                        yeniSoruEkle('veritabani.json', soru, yenicevap, kullanici_veritabani)
                     print("AEXP AI: Teşekkürler, sayenizde yeni bir şey öğrendim.")
