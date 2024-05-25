@@ -1,0 +1,188 @@
+{
+  "sorular": [
+    {
+      "soru": "merhaba",
+      "cevap": "Merhaba, size nasıl yardımcı olabilirim?"
+    },
+    {
+      "soru": "nasılsın",
+      "cevap": "Ben bir yapay zeka olduğum için duygularım yok, ancak size yardımcı olmaktan memnuniyet duyarım! Size nasıl yardımcı olabilirim?"
+    },
+    {
+      "soru": "python hakkında yardım istiyorum",
+      "cevap": "Tabii, Python hakkında size nasıl yardımcı olabilirim? Python ile ilgili bir sorun mu yaşıyorsunuz, bir proje mi geliştiriyorsunuz yoksa Python hakkında genel bir bilgi mi arıyorsunuz?"
+    },
+    {
+      "soru": "selam",
+      "cevap": "Merhaba, size nasıl yardımcı olabilirim?"
+    },
+    {
+      "soru": "python",
+      "cevap": "Python, kullanıcılar tarafından basit olması sebebiyle tercih edilen bir programlama dilidir. Python çeşitli alanlarda kullanılabilir. Örneğin, web geliştirme, veri analizi, yapay zeka ve otomasyon gibi."
+    },
+    {
+      "soru": "ahmet erdem pamuk doğum günü ne zaman",
+      "cevap": "Geliştiricim olan Ahmet Erdem Pamuk 04.10.2009 tarihinde doğmuştur."
+    },
+    {
+      "soru": "geliştiricin kimdir",
+      "cevap": "Geliştiricim Ahmet Erdem Pamuktur."
+    },
+    {
+      "soru": "yapımcın kim",
+      "cevap": "Geliştiricim Ahmet Erdem Pamuktur."
+    },
+    {
+      "soru": "ismin nereden geliyor?",
+      "cevap": "İsmim, geliştiricim Ahmet Erdem Pamukun baş harfleri (AEP) ile İngilizce 'explore' kelimesinin birleştirilmiş halidir."
+    },
+    {
+      "soru": "aep doğum tarihi",
+      "cevap": "04.10.2009"
+    },
+    {
+      "soru": "bugün kendimi kötü hissediyorum",
+      "cevap": "Üzüldüm duyduğuma. İyi hissetmemeniz doğal, bazen böyle günler olabilir. Eğer konuşmak veya paylaşmak isterseniz buradayım. Size yardımcı olabileceğim bir şey var mı?"
+    },
+    {
+      "soru": "bugün üzgünüm",
+      "cevap": "Bunu duyduğuma üzüldüm. Bazen böyle hissetmeniz normaldir. Eğer konuşmak veya paylaşmak isterseniz buradayım. Size yardımcı olabileceğim bir şey var mı?"
+    },
+    {
+      "soru": "neden varım",
+      "cevap": "Bu, felsefi bir soru ve pek çok farklı yanıtı olabilir. Kendi varoluş amacınızı keşfetmek hayatınız boyunca devam eden bir süreç olabilir."
+    },
+    {
+      "soru": "makine öğrenmesi nedir",
+      "cevap": "Makine öğrenmesi, bilgisayarların açıkça programlanmadan verilerden öğrenmelerini sağlayan bir yapay zeka alt dalıdır. Algoritmalar, büyük veri setlerinden kalıpları ve ilişkileri öğrenerek tahminler yapabilirler."
+    },
+    {
+      "soru": "güncel haberler",
+      "cevap": "Güncel haberler hakkında bilgi almak için çeşitli haber sitelerini ziyaret edebilir veya güncel haber uygulamalarını kullanabilirsiniz. Size belirli bir konuda haber mi lazım?"
+    },
+    {
+      "soru": "hava durumu",
+      "cevap": "Hava durumu bilgisi için bulunduğunuz şehir veya bölgeyi belirtir misiniz?"
+    },
+    {
+      "soru": "en yakın restoranlar",
+      "cevap": "Bulunduğunuz konuma göre en yakın restoranları bulmak için harita uygulamalarını kullanabilir veya belirli bir mutfak türü arıyorsanız bana söyleyebilirsiniz."
+    },
+    {
+      "soru": "en iyi filmler",
+      "cevap": "İzlemek istediğiniz türde en iyi filmleri mi arıyorsunuz? Dram, komedi, aksiyon, bilim kurgu gibi belirli bir tür var mı?"
+    },
+    {
+      "soru": "bugün hangi gün",
+      "cevap": "Bugün günlerden [günün adı]."
+    },
+    {
+      "soru": "bitcoin nedir",
+      "cevap": "Bitcoin, merkezi olmayan dijital bir para birimidir. 2009 yılında Satoshi Nakamoto takma adıyla geliştirilen biri tarafından yaratılmıştır. Bitcoin, blok zinciri teknolojisini kullanır."
+    },
+    {
+      "soru": "gelecek hafta hava nasıl olacak",
+      "cevap": "Gelecek haftanın hava durumu bilgisi için bulunduğunuz bölgeyi belirtir misiniz? Bu şekilde size daha doğru bilgiler verebilirim."
+    },
+    {
+      "soru": "java ile python arasındaki farklar",
+      "cevap": "Java ve Python iki popüler programlama dilidir. Java, daha katı sözdizimine sahip, derlenmiş bir dildir ve genellikle büyük ölçekli projeler için kullanılır. Python ise daha esnek, yorumlanmış bir dildir ve hızlı geliştirme döngüleri için idealdir."
+    },
+    {
+      "soru": "html nedir",
+      "cevap": "HTML (HyperText Markup Language), web sayfalarını oluşturmak için kullanılan standart işaretleme dilidir. Web sayfalarının yapısını tanımlar ve tarayıcılara nasıl görüntüleneceğini söyler."
+    },
+    {
+      "soru": "css nedir",
+      "cevap": "CSS (Cascading Style Sheets), HTML ile oluşturulan web sayfalarının görünümünü ve biçimlendirmesini kontrol etmek için kullanılır. Renkler, yazı tipleri, düzenler ve diğer stil özelliklerini belirlemek için kullanılır."
+    },
+    {
+      "soru": "javascript nedir",
+      "cevap": "JavaScript, web sayfalarına interaktivite eklemek için kullanılan popüler bir programlama dilidir. HTML ve CSS ile birlikte çalışarak dinamik içerik, animasyonlar ve çeşitli kullanıcı etkileşimlerini sağlar."
+    },
+    {
+      "soru": "veritabanı nedir",
+      "cevap": "Veritabanı, organize edilmiş veri koleksiyonlarının saklandığı ve yönetildiği bir sistemdir. Veritabanları, verilerin hızlı ve verimli bir şekilde saklanmasını, alınmasını ve işlenmesini sağlar."
+    },
+    {
+      "soru": "sql nedir",
+      "cevap": "SQL (Structured Query Language), veritabanlarını yönetmek ve verilerle çalışmak için kullanılan bir dildir. SQL, veri eklemek, silmek, güncellemek ve sorgulamak için çeşitli komutlar sağlar."
+    },
+    {
+      "soru": "yapay zeka nedir",
+      "cevap": "Yapay zeka (AI), bilgisayar sistemlerinin insan benzeri zekayı taklit ederek görevleri yerine getirmesini sağlayan bir teknoloji dalıdır. AI, makine öğrenimi, doğal dil işleme, robotik ve diğer teknolojileri içerir."
+    },
+    {
+      "soru": "blockchain nedir",
+      "cevap": "Blockchain, dijital bilgilerin dağıtık bir şekilde depolandığı ve değiştirilemediği bir veritabanı sistemidir. Her blok, önceki blokla bağlantılıdır ve bu şekilde bir zincir oluşturur. Bitcoin ve diğer kripto para birimlerinin temelini oluşturur."
+    },
+    {
+      "soru": "bugün tarih ne",
+      "cevap": "Bugünün tarihi [tarih]."
+    },
+    {
+      "soru": "en iyi kitaplar",
+      "cevap": "Okumak istediğiniz türde en iyi kitapları mı arıyorsunuz? Roman, bilim kurgu, felsefe, kişisel gelişim gibi belirli bir tür var mı?"
+    },
+    {
+      "soru": "kodlama nedir",
+      "cevap": "Kodlama, bilgisayarlara ne yapmaları gerektiğini söyleyen komutlar yazma sürecidir. Programlama dilleri kullanılarak kodlar yazılır ve bu kodlar, bilgisayarların görevleri yerine getirmesini sağlar."
+    },
+    {
+      "soru": "algoritma nedir",
+      "cevap": "Algoritma, belirli bir problemi çözmek veya belirli bir amaca ulaşmak için izlenen adımların dizisidir. Algoritmalar, programlama ve bilgisayar biliminin temel taşlarından biridir."
+    },
+    {
+      "soru": "bugün piyasa durumu nasıl",
+      "cevap": "Güncel piyasa durumu hakkında bilgi almak için belirli bir piyasa (örneğin, borsa, kripto para, emtia) belirtir misiniz?"
+    },
+    {
+      "soru": "sağlıklı yaşam önerileri",
+      "cevap": "Sağlıklı bir yaşam için düzenli egzersiz yapmak, dengeli beslenmek, yeterli uyumak ve stresten uzak durmak önemlidir. Ayrıca su tüketimini artırmak ve düzenli sağlık kontrolleri yaptırmak da faydalıdır."
+    },
+    {
+      "soru": "tatil önerileri",
+      "cevap": "Tatiller için öneriler arasında plaj tatilleri, doğa yürüyüşleri, kültürel şehir turları ve gastronomi turizmi yer alabilir. Belirli bir bölge veya ülke hakkında öneri mi istersiniz?"
+    },
+    {
+      "soru": "spor yapmanın faydaları",
+      "cevap": "Spor yapmak, fiziksel sağlığı geliştirir, kasları güçlendirir, kardiyovasküler sağlığı destekler ve kilo kontrolünü sağlar. Aynı zamanda ruh sağlığını iyileştirir, stresi azaltır ve genel olarak daha iyi bir ruh hali sağlar."
+    },
+    {
+      "soru": "uykusuzluk nedenleri",
+      "cevap": "Uykusuzluğun birçok nedeni olabilir: stres, kaygı, düzensiz uyku alışkanlıkları, kafein veya alkol tüketimi, tıbbi koşullar gibi. Uykusuzluk sorunları yaşıyorsanız, bir sağlık uzmanına danışmanız faydalı olabilir."
+    },
+    {
+      "soru": "diyet nasıl yapılır",
+      "cevap": "Diyet yaparken dengeli ve çeşitli beslenmek önemlidir. Sebze, meyve, tam tahıllar, protein kaynakları ve sağlıklı yağlardan oluşan bir diyet tercih edilmelidir. Ayrıca porsiyon kontrolü ve düzenli yemek alışkanlıkları da önemlidir."
+    },
+    {
+      "soru": "çocuklar için kitap önerileri",
+      "cevap": "Çocuklar için yaş grubuna göre farklı kitap önerileri yapılabilir. Küçük çocuklar için resimli kitaplar, okul çağındaki çocuklar için macera ve fantastik hikayeler, gençler için ise daha kompleks romanlar ve seriler önerilebilir."
+    },
+    {
+      "soru": "yoga nedir",
+      "cevap": "Yoga, beden ve zihni birleştiren bir egzersiz ve meditasyon pratiğidir. Esneklik, güç ve dengeyi geliştirmeye yardımcı olurken, zihinsel rahatlama ve stres azaltma sağlar."
+    },
+    {
+      "soru": "meditasyon nasıl yapılır",
+      "cevap": "Meditasyon yapmak için sessiz bir ortam bulun, rahat bir pozisyonda oturun veya uzanın, gözlerinizi kapatın ve derin nefes alın. Dikkatinizi nefesinize odaklayın ve zihninizi sakinleştirmeye çalışın. Düzenli olarak yapmak faydalıdır."
+    },
+    {
+      "soru": "evde spor nasıl yapılır",
+      "cevap": "Evde spor yapmak için basit ekipmanlar (dambıl, yoga matı, direnç bantları) kullanabilirsiniz. Kardiyo, kuvvet antrenmanları, esneme ve yoga gibi farklı egzersiz türlerini deneyebilirsiniz. Online video dersleri de yardımcı olabilir."
+    },
+    {
+      "soru": "mental sağlık nasıl korunur",
+      "cevap": "Mental sağlığı korumak için düzenli egzersiz yapmak, sağlıklı beslenmek, yeterli uyumak, stresten uzak durmak, sosyal ilişkileri sürdürmek ve gerektiğinde profesyonel destek almak önemlidir. Ayrıca hobilerle ilgilenmek ve zaman yönetimi de faydalıdır."
+    }
+  ],
+  "ahmet": "ahmet123",
+  "ahmeterdempamuk": "ahmet",
+  "Özgür Pamuk": "özgür",
+  "yok": "yok",
+  "Ahmet Erdem": "ahmetadmin",
+  "Ahmet": "AhmetAdmin",
+  "muhsin": "muhsin",
+  "null": null
+}
