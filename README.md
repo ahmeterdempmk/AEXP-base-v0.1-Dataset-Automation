@@ -1,13 +1,9 @@
 <a id="readme-top"></a>
 
-
-[![LinkedIn][linkedin-shield]][https://linkedin.com/in/ahmet-erdem-pamuk]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ugc.production.linktr.ee/10220714-f82a-47fb-91d9-73982c31415f_AEXP-AI-Logo-removebg-preview.png?io=true&size=avatar-v3_0">
+  <a href="https://ugc.production.linktr.ee/10220714-f82a-47fb-91d9-73982c31415f_AEXP-AI-Logo-removebg-preview.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
