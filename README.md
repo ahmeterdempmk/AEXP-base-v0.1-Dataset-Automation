@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ugc.production.linktr.ee/10220714-f82a-47fb-91d9-73982c31415f_AEXP-AI-Logo-removebg-preview.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">AEXP AI</h3>
 
   <p align="center">
@@ -21,8 +17,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![AEXP AI][GUI (User Interface)]](https://r.resimlink.com/DM1OQgpUG2.png?v=7149395e7f67f5db90ca5c2915dc80c5)
 
 Unlike other LLMs, AEXP AI, which you can train on your own data, offers you a personal artificial intelligence experience!
 
