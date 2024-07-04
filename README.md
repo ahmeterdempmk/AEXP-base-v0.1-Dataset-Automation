@@ -40,7 +40,24 @@ You can download the repo from github or copy it from the console with the follo
    ```sh
    git clone https://github.com/ahmeterdempmk/AEXP-AI.git
    ```
-
+2. Change directory
+   ```sh
+   cd AEXP AI
+   ```
+3. Download the necessary libraries
+   ```sh
+   pip install customtkinter
+   ```
+   ```sh
+   pip install cdifflib
+   ```
+4. Run the exe file for the language you want or open the python script as follows:
+   ```sh
+   python gui_tr.py
+   ```
+   ```sh
+   python gui_en.py
+   ```
 
 <!-- CONTACT -->
 ## Contact
