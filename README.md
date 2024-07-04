@@ -62,6 +62,6 @@ You can download the repo from github or copy it from the console with the follo
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - aepa@mrpolymers.com
+[Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - aepa@mrpolymers.com
 
 Project Link: [https://github.com/ahmeterdempmk/AEXP-AI](https://github.com/ahmeterdempmk/AEXP-AI)
