@@ -25,9 +25,8 @@ Here's why:
 * You can teach him something new!
 * And most importantly, you can train a chatbot from scratch with your personal database! :smile:
 
-Of course, this project is not exactly a chatbot, but being able to train it on your own data really gives you an advantage.
+Of course, this project is not exactly a chatbot now, this automation was done only to create the dataset of the natural language processing model. Thanks to this automation, you can contribute to the dataset of the aexpai natural language processing model.
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 A few tips on how to get started!
