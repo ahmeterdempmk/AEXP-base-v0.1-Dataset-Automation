@@ -6,7 +6,7 @@
   <h3 align="center">AEXP AI</h3>
 
   <p align="center">
-    Personal artificial intelligence model
+    Personal NLP model
     <br />
     <br />
     <br />
