@@ -1,33 +1,26 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">AEXP AI</h3>
+  <h3 align="center">AEXP-base-v0.1 Dataset Automation</h3>
 
   <p align="center">
-    Personal artificial intelligence model
-    <br />
-    <br />
-    <br />
-    <a href="https://github.com/ahmeterdempmk/AEXP-AI">View Source Codes</a>
+    Dataset Creation Automation
+    <a href="https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation">View Source Codes</a>
   </p>
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Unlike other LLMs, AEXP AI, which you can train on your own data, offers you a personal artificial intelligence experience!
+This automation creates databases with JSON format in python. Users questions and answers are saving to the databases. After completing the necessary data, the JSON format is converting to CSV dataset format. And a model is training and fine tuning by the dataset.
 
 Here's why:
-* You can chat and joke with him!
-* You can teach him something new!
-* And most importantly, you can train a chatbot from scratch with your personal database! :smile:
+* Thanks to this automation, models dataset is created by users datas.
+* Users train the model, albeit indirectly.
 
-Of course, this project is not exactly a chatbot, but being able to train it on your own data really gives you an advantage.
+This automation was done only to create the dataset of the model. Thanks to this automation, you can contribute to the dataset of the AEXP-base-v0.1 NLP model.
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 A few tips on how to get started!
@@ -38,13 +31,29 @@ You can download the repo from github or copy it from the console with the follo
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmeterdempmk/AEXP-AI.git
+   git clone https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation/.git
+   ```
+2. Change directory
+   ```sh
+   cd AEXP-base-v0.1-Dataset-Automation-main
+   ```
+3. Download the necessary libraries
+   ```sh
+   pip install customtkinter
+   ```
+   ```sh
+   pip install cdifflib
+   ```
+4. Run the exe file for the language you want or open the python script as follows:
+   ```sh
+   python gui_tr.py
+   ```
+   ```sh
+   python gui_en.py
    ```
 
-
-<!-- CONTACT -->
 ## Contact
 
-Your Name - [Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - aepa@mrpolymers.com
+[Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - ahmeterdempmkk@gmail.com
 
-Project Link: [https://github.com/ahmeterdempmk/AEXP-AI](https://github.com/ahmeterdempmk/AEXP-AI)
+Project Link: [https://github.com/ahmeterdempmk/AEXP-base*v0.1-Dataset-Automation](https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation)
