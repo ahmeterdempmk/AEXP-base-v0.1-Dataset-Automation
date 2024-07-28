@@ -1,31 +1,29 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">AEXP AI</h3>
+  <h3 align="center">AEXP-base-v0.1 Dataset Automation</h3>
 
   <p align="center">
     Personal NLP model
     <br />
     <br />
     <br />
-    <a href="https://github.com/ahmeterdempmk/AEXP-AI">View Source Codes</a>
+    <a href="https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation">View Source Codes</a>
   </p>
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Unlike other LLMs, AEXP AI, which you can train on your own data, offers you a personal artificial intelligence experience!
+Unlike other LLMs, AEXP-base-v0.1, which you can train on your own data, offers you a personal artificial intelligence experience!
 
 Here's why:
-* You can chat and joke with him!
-* You can teach him something new!
+* You can ask your questions!
+* You can chat!
 * And most importantly, you can train a chatbot from scratch with your personal database! :smile:
 
-Of course, this project is not exactly a chatbot now, this automation was done only to create the dataset of the natural language processing model. Thanks to this automation, you can contribute to the dataset of the aexpai natural language processing model.
+This automation was done only to create the dataset of the natural language processing (NLP) model. Thanks to this automation, you can contribute to the dataset of the AEXP-base-v0.1 NLP model.
 
 ## Getting Started
 
@@ -37,7 +35,7 @@ You can download the repo from github or copy it from the console with the follo
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmeterdempmk/AEXP-AI.git
+   git clone https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation/.git
    ```
 2. Change directory
    ```sh
@@ -58,9 +56,8 @@ You can download the repo from github or copy it from the console with the follo
    python gui_en.py
    ```
 
-<!-- CONTACT -->
 ## Contact
 
 [Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - ahmeterdempmk@gmail.com
 
-Project Link: [https://github.com/ahmeterdempmk/AEXP-AI](https://github.com/ahmeterdempmk/AEXP-AI)
+Project Link: [https://github.com/ahmeterdempmk/AEXP-AI](https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation)
