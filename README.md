@@ -55,6 +55,6 @@ You can download the repo from github or copy it from the console with the follo
 
 ## Contact
 
-[Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - ahmeterdempmk@gmail.com
+[Ahmet Erdem Pamuk](https://linkedin.com/in/ahmet-erdem-pamuk) - ahmeterdempmkk@gmail.com
 
-Project Link: [https://github.com/ahmeterdempmk/AEXP-AI](https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation)
+Project Link: [https://github.com/ahmeterdempmk/AEXP-base*v0.1-Dataset-Automation](https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation)
