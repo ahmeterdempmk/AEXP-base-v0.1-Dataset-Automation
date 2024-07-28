@@ -5,10 +5,7 @@
   <h3 align="center">AEXP-base-v0.1 Dataset Automation</h3>
 
   <p align="center">
-    Personal NLP model
-    <br />
-    <br />
-    <br />
+    Dataset Creation Automation
     <a href="https://github.com/ahmeterdempmk/AEXP-base-v0.1-Dataset-Automation">View Source Codes</a>
   </p>
 </div>
