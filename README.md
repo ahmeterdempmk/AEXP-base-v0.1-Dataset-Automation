@@ -13,14 +13,13 @@
 
 ## About The Project
 
-Unlike other LLMs, AEXP-base-v0.1, which you can train on your own data, offers you a personal artificial intelligence experience!
+This automation creates databases with JSON format in python. Users questions and answers are saving to the databases. After completing the necessary data, the JSON format is converting to CSV dataset format. And a model is training and fine tuning by the dataset.
 
 Here's why:
-* You can ask your questions!
-* You can chat!
-* And most importantly, you can train a chatbot from scratch with your personal database! :smile:
+* Thanks to this automation, models dataset is created by users datas.
+* Users train the model, albeit indirectly.
 
-This automation was done only to create the dataset of the natural language processing (NLP) model. Thanks to this automation, you can contribute to the dataset of the AEXP-base-v0.1 NLP model.
+This automation was done only to create the dataset of the model. Thanks to this automation, you can contribute to the dataset of the AEXP-base-v0.1 NLP model.
 
 ## Getting Started
 
@@ -36,7 +35,7 @@ You can download the repo from github or copy it from the console with the follo
    ```
 2. Change directory
    ```sh
-   cd AEXP AI
+   cd AEXP-base-v0.1-Dataset-Automation-main
    ```
 3. Download the necessary libraries
    ```sh
