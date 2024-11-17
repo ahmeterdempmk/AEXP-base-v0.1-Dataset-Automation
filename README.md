@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-<br />
 <div align="center">
   <h1 align="center">AEXP-base-v0.1 Dataset Automation</h1>
 
